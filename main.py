@@ -19,7 +19,7 @@ with open(u"model/encoder", "rb") as f:
     OH = pickle.load(f)
 
 # Set API_TOKEN. You must have your own.
-API_TOKEN = ''
+API_TOKEN = '6888593605:AAGVe9ZeXffc7IKKNLtGku_GJ1KM_96LCKo'
 
 # Configure logging.
 logging.basicConfig(level=logging.INFO)
